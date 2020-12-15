@@ -1,2 +1,2 @@
-# Exerc-cios-Flutter
+# Exercícios-Flutter
 Aprendendo Flutter
